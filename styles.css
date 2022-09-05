@@ -710,13 +710,14 @@ footer .directions a {
     width: 100%;
     height: 300px;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(400px, auto));
+    grid-template-columns: repeat(auto-fit, minmax(300px, auto));
     gap: 1rem;
   }
 
   .news-items .news-item {
-    width: 100%;
+    width: 80%;
     margin: 0;
+    height: 100%;
   }
 
   .news-items .news-item img {
