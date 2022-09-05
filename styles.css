@@ -698,6 +698,7 @@ footer .directions a {
 
   #news {
     width: 100%;
+    max-width: 100vw;
     max-height: 100vh;
     height: 100%;
     display: flex;
