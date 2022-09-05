@@ -717,7 +717,7 @@ footer .directions a {
 
   .news-items .news-item {
     width: 80%;
-    margin: auto;
+    margin: 0 auto;
     height: 100%;
   }
 
